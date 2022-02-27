@@ -152,4 +152,8 @@ a:hover {
         transform: none;
         transition: none;
 }
+.selected:before{
+    border:none ;
+   
+}
 }
