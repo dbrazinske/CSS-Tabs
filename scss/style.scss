@@ -13,6 +13,14 @@ body {
   text-align: center;
   font-family: lobster;
 }
+.imgtv{
+    background-image: url(../tv.png);
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 100px;
+    background-size:contain;
+    
+}
 .layout{
     display: flex;
     justify-content: center;
